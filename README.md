@@ -18,16 +18,12 @@ Provide a brief overview of what the project is about. Keep it simple, it should
 
 With this blog I want to document my personal growth and development as a software development student.
 
-I want to showcase what I learn during my journey building and maintaining this blog.
+I want to showcase what I learn during my journey building and maintaining this blog, also I want to document my school assignments here as to motivate myself more.
 
   
 
 📌Business Case
----------------
-
-Talk about the reason behind the project, and the problems it's going to address.
-
-  
+--------------- 
 
 I felt the need for this as I've noticed that I want to learn more about software development on a much broader scale. I would like to learn about the different aspects of coding and websites in general, such as networking, debugging, Linux, project management, as well as design and content creation.
 
