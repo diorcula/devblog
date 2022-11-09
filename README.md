@@ -11,9 +11,6 @@
 
 📌Project Brief
 ---------------
-
-Provide a brief overview of what the project is about. Keep it simple, it should be understandable for the reader in at least 2 to 3 sentences.
-
   
 
 With this blog I want to document my personal growth and development as a software development student.
@@ -76,14 +73,10 @@ List down all the milestones for the project, including their due dates. These w
 
 📌Deliverables
 --------------
-
-What things must happen before the project is delivered?
-
   
 
 *   Backend
 *   Frontend
-*   Live blog
 *   Documentation
 
   
